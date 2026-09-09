@@ -59,13 +59,14 @@ and notifications.
 ## Key Documents
 | Document | Description |
 |---|---|
-| [`docs/BRD.docx`](docs/BRD.docx) | Business Requirements Document |
-| [`docs/FRD.docx`](docs/FRD.docx) | Functional Requirements Document & Traceability Matrix |
-| [`docs/Process-Mapping-Gap-Analysis.docx`](docs/Process-Mapping-Gap-Analysis.docx) | AS-IS / TO-BE Process Mapping & Gap Analysis |
-| [`agile-artifacts/Agile-Ceremonies-Sprint1.docx`](agile-artifacts/Agile-Ceremonies-Sprint1.docx) | Backlog Refinement, Sprint Planning, Stand-up, Review & Retrospective |
-| [`agile-artifacts/jira-screenshots/`](agile-artifacts/jira-screenshots/) | Backlog, Board, and Reports screenshots from Jira |
-| [`testing/Test-Cases-Defect-Report.docx`](testing/Test-Cases-Defect-Report.docx) | Test Cases, Defect Log, and Retest Confirmation |
-| [`testing/UAT@.xlsx`](testing/UAT@.xlsx) | Test Case & UAT Execution Tracker (raw data) |
+| [`BRD.docx`](BRD.docx) | Business Requirements Document |
+| [`FRD.docx`](FRD.docx) | Functional Requirements Document & Traceability Matrix |
+| [`Process_Mapping_Gap_Analysis.docx`](Process_Mapping_Gap_Analysis.docx) | AS-IS / TO-BE Process Mapping & Gap Analysis |
+| [`Agile_Ceremonies_Sprint1.docx`](Agile_Ceremonies_Sprint1.docx) | Backlog Refinement, Sprint Planning, Stand-up, Review & Retrospective |
+| [`Agile/Images/`](Agile/Images/) | Backlog, Board, and Reports screenshots from Jira |
+| [`Test_Cases_Defect_Report.docx`](Test_Cases_Defect_Report.docx) | Test Cases, Defect Log, and Retest Confirmation |
+| [`UAT@.xlsx`](UAT@.xlsx) | Test Case & UAT Execution Tracker (raw data) |
+| [`Final_Project_Case_Study.docx`](Final_Project_Case_Study.docx) | 1-Page Project Summary |
 
 ## Future Enhancements
 - Live Delivery Tracking
